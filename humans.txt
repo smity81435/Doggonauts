@@ -1,15 +1,14 @@
 #Authors
+    *Douglas Smith
+        dosm6711@colorado.edu
+        970-729-0268
 
-    Douglas Smith
-    dosm6711@colorado.edu
-    970-729-0268
+    *Laura Murray
+        lamu4539@colorado.edu
+        303 330 8359
 
-<<<<<<< HEAD
-    Laura Murray
-    lamu4539@colorado.edu
-    303 330 8359
-=======
-    Nick Hearon
-    nihe3779@colorado.edu
-    253-686-6406
->>>>>>> 5e7af2a336b914cee7f653b4998491bf54e3ebdc
+    *Nick Hearon
+        nihe3779@colorado.edu
+        253-686-6406
+
+#Allyourbasearebelongtous
