@@ -22,3 +22,7 @@ h1{
 p{
     
 }
+footer{
+    position: fixed;
+    bottom: 0;
+}
