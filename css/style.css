@@ -9,19 +9,32 @@ box-sizing:border-box;
 -webkit-box-sizing:border-box;
 }
 html{
-    
+   background: rgb(234, 52, 52); 
 }
 body{
-    
+    color: white;
 }
 .story{
     
 }
 h1{
-    
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    transition: 2s opacity;
+    opacity: 1;
 }
+h1{}
 p{
-    
+   padding: 2%; 
+}
+.storysectionone{
+    height: 1000px;
+    vertical-align: middle;
+}
+.storysection{
+    height: 1000px;
+    vertical-align: middle;
 }
 footer{
     color: white;
@@ -31,4 +44,5 @@ footer{
     position: fixed;
     width: 100%;
     bottom: 0;
+    line-height: 5px;
 }
