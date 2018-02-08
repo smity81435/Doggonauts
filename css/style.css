@@ -28,14 +28,74 @@ h1{}
 p{
    padding: 2%; 
 }
-.storysectionone{
+.intro{
     height: 1000px;
-    vertical-align: middle;
+    width: 100%;
+    background: url("../img/doggo.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+h1{
+    padding-top: 40%;
 }
 .storysection{
     height: 1000px;
+    width: 100%;
+    background: url("../img/putin.svg") no-repeat center center fixed;
+    background-size: cover;
     vertical-align: middle;
 }
+.storysection p{
+        background: rgba(0,0,0,.6);      
+}
+#1{
+        background: url("../img/putin.svg") no-repeat center center fixed;
+        background-size: cover;
+}
+#2{
+        background: url("../img/putin.svg") no-repeat center center fixed;
+        background-size: cover;
+}
+#3{
+        background: url("../img/putin.svg") no-repeat center center fixed;
+        background-size: cover;
+}
+#4{
+        background: url("../img/putin.svg") no-repeat center center fixed;
+        background-size: cover;
+}
+#5{
+        background: url("../img/putin.svg") no-repeat center center fixed;
+        background-size: cover;
+}
+#6{
+        background: url("../img/putin.svg") no-repeat center center fixed;
+        background-size: cover;
+}
+#7{
+        background: url("../img/putin.svg") no-repeat center center fixed;
+        background-size: cover;
+}
+#8{
+        background: url("../img/putin.svg") no-repeat center center fixed;
+        background-size: cover;
+}
+#9{
+        background: url("../img/putin.svg") no-repeat center center fixed;
+        background-size: cover;
+}
+#10{
+        background: url("../img/putin.svg") no-repeat center center fixed;
+        background-size: cover;
+}
+#11{
+        background: url("../img/putin.svg") no-repeat center center fixed;
+        background-size: cover;
+}
+#12{
+        background: url("../img/putin.svg") no-repeat center center fixed;
+        background-size: cover;
+}
+
 footer{
     color: white;
     background: rgba(0,0,0,.6);
