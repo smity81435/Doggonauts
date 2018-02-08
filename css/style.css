@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css?family=Nova+Flat');
 *,
 *:before,
 *:after{
@@ -18,13 +18,16 @@ body{
     
 }
 h1{
+    font-size: 48px;
+    color: #ff0000;
+    text-shadow: 0 0 10px black;
+    font-family: "Nova Flat", cursive;
     text-align: center;
     margin-top: 5%;
     margin-bottom: 5%;
     transition: 2s opacity;
     opacity: 1;
 }
-h1{}
 p{
    padding: 2%; 
 }
