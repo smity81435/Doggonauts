@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Nova+Flat');
+@import url('https://fonts.googleapis.com/css?family=Nanum+Pen+Script|Nova+Flat');
 *,
 *:before,
 *:after{
@@ -43,14 +43,10 @@ h1{
     text-align: center;
     transition: 2s opacity;
     opacity: 1;
-    width: 400px;
-    height: 120px;
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    right: 0;
-    left: 0;
-    margin: auto;
+}
+p{
+   padding: 2%;
+   font-family: 'Nanum Pen Script', cursive;
 }
 .intro{
     height: 1000px;
