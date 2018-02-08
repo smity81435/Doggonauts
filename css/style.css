@@ -17,28 +17,35 @@ body{
 .story{
     
 }
+p{
+    padding: 1%;
+}
+
 h1{
     font-size: 48px;
     color: #ff0000;
+    border-radius: 10px;
+    background: rgba(0,0,0,.5);
     text-shadow: 0 0 10px black;
     font-family: "Nova Flat", cursive;
     text-align: center;
-    margin-top: 5%;
-    margin-bottom: 5%;
     transition: 2s opacity;
     opacity: 1;
-}
-p{
-   padding: 2%; 
+    width: 400px;
+    height: 120px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin: auto;
 }
 .intro{
     height: 1000px;
     width: 100%;
     background: url("../img/doggo.jpg") no-repeat center center fixed;
     background-size: cover;
-}
-h1{
-    padding-top: 40%;
+    vertical-align: middle;
 }
 .storysection{
     height: 1000px;
@@ -47,6 +54,7 @@ h1{
     vertical-align: middle;
 }
 .storysection p{
+        font-size: 36px;
         background: rgba(0,0,0,.6);      
 }
 #one{
@@ -106,6 +114,6 @@ footer{
     text-align: center;
     position: fixed;
     width: 100%;
+    height: 40px;
     bottom: 0;
-    line-height: 5px;
 }
