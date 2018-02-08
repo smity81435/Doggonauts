@@ -40,58 +40,58 @@ h1{
 .storysection{
     height: 1000px;
     width: 100%;
-    background: url("../img/putin.svg") no-repeat center center fixed;
     background-size: cover;
     vertical-align: middle;
 }
 .storysection p{
         background: rgba(0,0,0,.6);      
 }
-#1{
+#one{
         background: url("../img/putin.svg") no-repeat center center fixed;
         background-size: cover;
 }
-#2{
+#two{
         background: url("../img/putin.svg") no-repeat center center fixed;
         background-size: cover;
 }
-#3{
+#three{
+        background: url("../img/putin.svg") no-repeat center center fixed;
+
+        background-size: cover;
+}
+#four{
         background: url("../img/putin.svg") no-repeat center center fixed;
         background-size: cover;
 }
-#4{
+#five{
         background: url("../img/putin.svg") no-repeat center center fixed;
         background-size: cover;
 }
-#5{
+#six{
         background: url("../img/putin.svg") no-repeat center center fixed;
         background-size: cover;
 }
-#6{
+#seven{
         background: url("../img/putin.svg") no-repeat center center fixed;
         background-size: cover;
 }
-#7{
+#eight{
         background: url("../img/putin.svg") no-repeat center center fixed;
         background-size: cover;
 }
-#8{
+#nine{
         background: url("../img/putin.svg") no-repeat center center fixed;
         background-size: cover;
 }
-#9{
+#ten{
         background: url("../img/putin.svg") no-repeat center center fixed;
         background-size: cover;
 }
-#10{
+#eleven{
         background: url("../img/putin.svg") no-repeat center center fixed;
         background-size: cover;
 }
-#11{
-        background: url("../img/putin.svg") no-repeat center center fixed;
-        background-size: cover;
-}
-#12{
+#twelve{
         background: url("../img/putin.svg") no-repeat center center fixed;
         background-size: cover;
 }
