@@ -29,7 +29,8 @@ h1{
     opacity: 1;
 }
 p{
-   padding: 2%; 
+   padding: 2%;
+   font-family: 'Nanum Pen Script', cursive;
 }
 .intro{
     height: 1000px;
