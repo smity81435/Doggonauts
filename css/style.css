@@ -41,8 +41,14 @@ h1{
     text-shadow: 0 0 10px black;
     font-family: "Nova Flat", cursive;
     text-align: center;
-    transition: 2s opacity;
-    opacity: 1;
+    width: 400px;
+    height: 120px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
 }
 p{
    padding: 2%;
