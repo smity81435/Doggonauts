@@ -23,7 +23,7 @@ p{
 .nav{
     width: 100%;
     position:fixed;
-    background: rgba(0,0,0,.8);
+    background: rgba(0,0,0,.85);
     color: white;
 }
 .nav a{
