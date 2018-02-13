@@ -21,16 +21,16 @@ The point of this assignment was to learn to utilize Bash, Git, and GitHub to co
 
 Item | Credit
 ---- | ------
-Image One: Dog in Space Suit | 
+Image One: Dog in Space Suit | [sketchboy01](https://www.teepublic.com/user/sketchboy01)
 Image Two: Putin with Dog | 
-Image Three: Four Dogs on Rocket | 
-Image Four: Dog in Space Capsule |
-Image Five: Dogs in Vests |
-Image Six: Two Dogs in Rocket |
-Image Seven: Dog in Chair |
-Image Eight: Space Capsule Parachuting In |
-Image Nine: Laika | 
+Image Three: Four Dogs on Rocket | [Rebrn](http://rebrn.com/re/legendary-soviet-dog-astronauphts-belka-and-strelka-1054859/)
+Image Four: Dog in Space Capsule | [SyFy](http://www.syfy.asia/news/dogs-in-space-a-celebration-of-historys-canine-cosmonauts)
+Image Five: Dogs in Vests | Artwork by A. Zavyalov
+Image Six: Two Dogs in Rocket | [hyperallergic](https://hyperallergic.com/148079/the-sacrificial-glory-of-the-soviet-space-dogs/)
+Image Seven: Dog in Chair |[Getty Images](https://www.gettyimages.com/photos/soviet-space-program?sort=mostpopular&mediatype=photography&phrase=soviet%20space%20program)
+Image Eight: Space Capsule Parachuting In | [Ekzotik](https://ekzotik.deviantart.com/art/Soviet-Space-Dogs-506238278)
+Image Nine: Laika | [Getty Images](https://www.gettyimages.com/event/nov-3rd-russian-dog-laika-makes-space-flight-73368456#18th-september-1958-a-packet-of-russian-cigarettes-depicting-the-picture-id3200095) 
 Image Ten: 1960 Ad | 
-Image Eleven: Reaching for the Stars |
-Image Twelve: Dog and Rockets | 
-Image Thirteen: Dogs in Space |
+Image Eleven: Reaching for the Stars |[Cool hunting](http://www.coolhunting.com/culture/cosmonauts-birth-of-the-space-age-exhibition)
+Image Twelve: Dog and Rockets | [CW](https://www.collectorsweekly.com/articles/soviet-space-dogs-who-took-giant-leaps-for-mankind/)
+Image Thirteen: Dogs in Space | [Ekzotik](https://ekzotik.deviantart.com/art/Soviet-Space-Dogs-506238278)
