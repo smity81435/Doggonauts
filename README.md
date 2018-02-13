@@ -22,7 +22,7 @@ The point of this assignment was to learn to utilize Bash, Git, and GitHub to co
 Item | Credit
 ---- | ------
 Image One: Dog in Space Suit | [sketchboy01](https://www.teepublic.com/user/sketchboy01)
-Image Two: Putin with Dog | 
+Image Two: Putin with Dog | (https://images.csmonitor.com/csm/2010/12/01_49.jpg?alias=standard_900x600nc)
 Image Three: Four Dogs on Rocket | [Rebrn](http://rebrn.com/re/legendary-soviet-dog-astronauphts-belka-and-strelka-1054859/)
 Image Four: Dog in Space Capsule | [SyFy](http://www.syfy.asia/news/dogs-in-space-a-celebration-of-historys-canine-cosmonauts)
 Image Five: Dogs in Vests | Artwork by A. Zavyalov
