@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Nanum+Pen+Script|Nova+Flat');
+@import url('https://fonts.googleapis.com/css?family=Abel');
 *,
 *:before,
 *:after{
@@ -55,7 +55,7 @@ h1{
 }
 p{
    padding: 2%;
-   font-family: 'Nanum Pen Script', cursive;
+   font-family: 'Abel', sans-serif;
 }
 .intro{
     height: 1000px;

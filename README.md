@@ -34,3 +34,5 @@ Image Ten: 1960 Ad | [Getty Images](www.gettyimages.com)
 Image Eleven: Reaching for the Stars |[Cool hunting](http://www.coolhunting.com/culture/cosmonauts-birth-of-the-space-age-exhibition)
 Image Twelve: Dog and Rockets | [CW](https://www.collectorsweekly.com/articles/soviet-space-dogs-who-took-giant-leaps-for-mankind/)
 Image Thirteen: Dogs in Space | [Ekzotik](https://ekzotik.deviantart.com/art/Soviet-Space-Dogs-506238278)
+
+## No Doggos were hurt during the making of this page.
