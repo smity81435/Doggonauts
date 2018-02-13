@@ -30,7 +30,7 @@ Image Six: Two Dogs in Rocket | [hyperallergic](https://hyperallergic.com/148079
 Image Seven: Dog in Chair |[Getty Images](https://www.gettyimages.com/photos/soviet-space-program?sort=mostpopular&mediatype=photography&phrase=soviet%20space%20program)
 Image Eight: Space Capsule Parachuting In | [Ekzotik](https://ekzotik.deviantart.com/art/Soviet-Space-Dogs-506238278)
 Image Nine: Laika | [Getty Images](https://www.gettyimages.com/event/nov-3rd-russian-dog-laika-makes-space-flight-73368456#18th-september-1958-a-packet-of-russian-cigarettes-depicting-the-picture-id3200095) 
-Image Ten: 1960 Ad | 
+Image Ten: 1960 Ad | [Getty Images](www.gettyimages.com)
 Image Eleven: Reaching for the Stars |[Cool hunting](http://www.coolhunting.com/culture/cosmonauts-birth-of-the-space-age-exhibition)
 Image Twelve: Dog and Rockets | [CW](https://www.collectorsweekly.com/articles/soviet-space-dogs-who-took-giant-leaps-for-mankind/)
 Image Thirteen: Dogs in Space | [Ekzotik](https://ekzotik.deviantart.com/art/Soviet-Space-Dogs-506238278)
